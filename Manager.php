@@ -1,0 +1,12 @@
+<?php 
+      include('config/config.php');
+	  include('lib/Connect.php');
+	  include('lib/Helper.php');
+	  include('lib/Session.php');
+	  include('modal/SliderModal.php');
+      include('modal/CategoryModal.php');
+	  include('modal/SubCategoryModal.php');
+	  include('modal/ProductModal.php');
+	  include('modal/DealModal.php');
+	  include('modal/SellerModal.php');
+   ?>
